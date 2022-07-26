@@ -14,4 +14,4 @@ app.use("/detailpemain", detailpemain);
 app.use("/auth", authRouters);
 // app.use("/dashboard", require("./routes/dashboard"));
 
-module.exports = app;
+module.exports = db;
